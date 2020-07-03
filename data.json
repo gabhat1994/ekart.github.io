@@ -1,0 +1,100 @@
+ {
+    "products":[{
+        "id":"test 1",
+        "image":"/images/d1.jpg",
+        "brand":"test 1",
+        "name":"test test",
+        "quantity":"3L",
+        "mrp":498,
+        "price":408,
+        "offer":"18% OFF",
+        "QTY":0    
+    },
+    {
+        "id":"test 2",
+        "image":"/images/d1.jpg",
+        "brand":"test 2",
+        "name":"test test",
+        "quantity":"3L",
+        "mrp":498,
+        "price":408,
+        "offer":"8% OFF"  ,
+        "QTY":0      
+    },
+    {
+        "id":"test 3",
+        "image":"/images/d1.jpg",
+        "brand":"test 3",
+        "name":"test test",
+        "quantity":"3L",
+        "mrp":498,
+        "price":408,
+        "QTY":0       
+    },
+    {
+        "id":"test 4",
+        "image":"/images/d1.jpg",
+        "brand":"test 4",
+        "name":"test test",
+        "quantity":"3L",
+        "mrp":498,
+        "price":408,
+        "QTY":0       
+    }, {
+        "id":"test 5",
+        "image":"/images/d1.jpg",
+        "brand":"test 5",
+        "name":"test test",
+        "quantity":"3L",
+        "mrp":498,
+        "price":408 ,
+        "QTY":0      
+    }, {
+        "id":"test 6",
+        "image":"/images/d1.jpg",
+        "brand":"test 6",
+        "name":"test test",
+        "quantity":"3L",
+        "mrp":498,
+        "price":408,
+        "QTY":0       
+    }, {
+        "id":"test 7",
+        "image":"/images/d1.jpg",
+        "brand":"test 7",
+        "name":"test test",
+        "quantity":"3L",
+        "mrp":498,
+        "price":408, 
+        "QTY":0      
+    },
+    {
+        "id":"test 8",
+        "image":"/images/d1.jpg",
+        "brand":"test 8",
+        "name":"test test",
+        "quantity":"3L",
+        "mrp":498,
+        "price":408,
+        "QTY":0       
+    },
+    {
+        "id":"test 9",
+        "image":"/images/d1.jpg",
+        "brand":"test 9",
+        "name":"test test",
+        "quantity":"3L",
+        "mrp":498,
+        "price":408,
+        "QTY":0       
+    }, {
+        "id":"test 10",
+        "image":"/images/d1.jpg",
+        "brand":"test 10",
+        "name":"test test",
+        "quantity":"3L",
+        "mrp":498,
+        "price":408,
+        "QTY":0       
+    }]
+    }
