@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d95a98b37d5236404c38452ddf448d6d",
+    "revision": "9bfaf86888d8958d44b18acfd21c9478",
     "url": "/ekart.github.io/index.html"
   },
   {
-    "revision": "42c9b2e99e2bd2b76d8c",
-    "url": "/ekart.github.io/static/css/main.fcea02bd.chunk.css"
+    "revision": "753901574ad7c9af6fca",
+    "url": "/ekart.github.io/static/css/main.bb88fb54.chunk.css"
   },
   {
     "revision": "ab3a776c0605df078d87",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ekart.github.io/static/js/2.b589bf19.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "42c9b2e99e2bd2b76d8c",
-    "url": "/ekart.github.io/static/js/main.44f8d8a1.chunk.js"
+    "revision": "753901574ad7c9af6fca",
+    "url": "/ekart.github.io/static/js/main.b67520de.chunk.js"
   },
   {
     "revision": "92fb9866dbc42ae8ee43",
