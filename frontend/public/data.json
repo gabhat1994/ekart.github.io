@@ -1,7 +1,7 @@
  {
     "products":[{
         "id":"test 1",
-        "image":"/images/d1.jpg",
+        "image":"https://gabhat1994.github.io/ekart.github.io/images/d1.jpg",
         "brand":"test 1",
         "name":"test test",
         "quantity":"3L",
@@ -12,7 +12,7 @@
     },
     {
         "id":"test 2",
-        "image":"/images/d1.jpg",
+        "image":"https://gabhat1994.github.io/ekart.github.io/images/d1.jpg",
         "brand":"test 2",
         "name":"test test",
         "quantity":"3L",
@@ -23,7 +23,7 @@
     },
     {
         "id":"test 3",
-        "image":"/images/d1.jpg",
+        "image":"https://gabhat1994.github.io/ekart.github.io/images/d1.jpg",
         "brand":"test 3",
         "name":"test test",
         "quantity":"3L",
@@ -33,7 +33,7 @@
     },
     {
         "id":"test 4",
-        "image":"/images/d1.jpg",
+        "image":"https://gabhat1994.github.io/ekart.github.io/images/d1.jpg",
         "brand":"test 4",
         "name":"test test",
         "quantity":"3L",
@@ -42,7 +42,7 @@
         "QTY":0       
     }, {
         "id":"test 5",
-        "image":"/images/d1.jpg",
+        "image":"https://gabhat1994.github.io/ekart.github.io/images/d1.jpg",
         "brand":"test 5",
         "name":"test test",
         "quantity":"3L",
@@ -51,7 +51,7 @@
         "QTY":0      
     }, {
         "id":"test 6",
-        "image":"/images/d1.jpg",
+        "image":"https://gabhat1994.github.io/ekart.github.io/images/d1.jpg",
         "brand":"test 6",
         "name":"test test",
         "quantity":"3L",
@@ -60,7 +60,7 @@
         "QTY":0       
     }, {
         "id":"test 7",
-        "image":"/images/d1.jpg",
+        "image":"https://gabhat1994.github.io/ekart.github.io/images/d1.jpg",
         "brand":"test 7",
         "name":"test test",
         "quantity":"3L",
@@ -70,7 +70,7 @@
     },
     {
         "id":"test 8",
-        "image":"/images/d1.jpg",
+        "image":"https://gabhat1994.github.io/ekart.github.io/images/d1.jpg",
         "brand":"test 8",
         "name":"test test",
         "quantity":"3L",
@@ -80,7 +80,7 @@
     },
     {
         "id":"test 9",
-        "image":"/images/d1.jpg",
+        "image":"https://gabhat1994.github.io/ekart.github.io/images/d1.jpg",
         "brand":"test 9",
         "name":"test test",
         "quantity":"3L",
@@ -89,7 +89,7 @@
         "QTY":0       
     }, {
         "id":"test 10",
-        "image":"/images/d1.jpg",
+        "image":"https://gabhat1994.github.io/ekart.github.io/images/d1.jpg",
         "brand":"test 10",
         "name":"test test",
         "quantity":"3L",
