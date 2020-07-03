@@ -107,7 +107,7 @@ render(){
     return(
         <div className="content">
         { this.state.isLoaded && this.state.products.map( product =>
-              <div key = {product.id} className="col-md-12" style ={{marginTop :"70px"}}>
+              <div key = {product.id} className="col-md-12" style ={{marginTop :"22px"}}>
               <div className="col-image">
                 <img className="product-image" src={product.image} alt="product" />
         <div className="product-offer">{product.offer}</div>
