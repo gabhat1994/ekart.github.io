@@ -1,0 +1,139 @@
+html{
+  font-size: 62.5%; /* 16px * 62.5 = 10px = 1rem */
+  box-sizing: border-box;
+}
+body{
+  font: 1.6rem Helvetica;
+  height: 100vh;
+  margin: 0;
+}
+.grid-container{
+  display: grid;
+  margin-left: 160px;
+  margin-right: 87px;
+   grid-template-areas: 
+  "header"
+  "main"
+  "footer"; 
+  grid-template-columns: 700px; 
+  grid-template-rows: 5rem 1fr 5rem;
+  height: 100%;
+
+}
+.header{
+  grid-area: header;
+  background-color: #203040;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5rem;
+ 
+}
+
+
+
+.main{
+  grid-area: main;
+}
+.footer{
+  grid-area: footer;
+  background-color: #203040;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: underline;
+}
+
+
+/* Home Screen */
+.products {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.product{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+.product-name{
+  font-size: 2rem;
+  font-weight: bold;
+}
+.product-brand{
+  font-size: 2rem;
+  color:#808080;
+  margin-top: -93px;
+  margin-left: 150px;
+
+}
+
+.product-offer{
+  font-size: 1.2rem;
+  margin-top: 10px;
+  margin-left:18px;
+}
+.product-che{
+  cursor: pointer;
+}
+.product-button{
+
+  margin-left: 150px;
+}
+.product-price{
+  font-size: 1.2rem;
+
+  margin-left: 150px;
+}
+.product-image{
+  max-width: 7rem;
+  max-height: 17rem;
+  margin-left: 10px;
+}
+.product-rating{
+  margin-bottom: 1rem;
+  margin-left: 150px;
+}
+
+.product-checkout{
+
+  margin-left: 378px;
+  margin-bottom: 18px;
+  cursor: pointer;
+}
+.col-image{
+  width: 20%;
+  margin-top: 22px;
+}
+.col-details{
+  width: 80%;
+  margin-left: 160px;
+  margin-top: -91px;
+}
+.product-add-button{
+  display: inline-block;
+  width: 50px; 
+  height: 30px; 
+ cursor: pointer;
+
+}
+
+.relative {
+  padding: 5px;
+  position: relative;
+  float: right;
+  margin-top: -32px;
+ } 
+.rel{
+  padding: 5px;
+  position: relative;
+  padding-top: 19px;
+  float: right;
+  margin-top: -31px;
+    
+}
